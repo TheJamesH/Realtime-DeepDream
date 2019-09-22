@@ -20,7 +20,7 @@ This is the main loop of the script:
 (note that the deepdream frame also is morphed based on the total oprical flow over time since the deepdream process was started)
 
 
-This processes is heavely GPU intensinve. Iterations can be kept low in the deepdream process since the frameblending creates a feedback loop. Input with small amounts of motion can build up a heavely processed image over time.
+This script is heavely GPU intensinve. Iterations can be kept low in the deepdream process since the frameblending creates a feedback loop. Input with small amounts of motion can build up a heavely processed image over time.
 
 
 Demonstration: https://youtu.be/FgMyknPBaFo
