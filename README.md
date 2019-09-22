@@ -15,7 +15,6 @@ This is the main loop of the script:
 
 -Run image input frame throught Google Deepdream
 -While the image is processing morph the current image based on the calculated optical flow of the video
-
 -When the deepdream processing is finished merge the current frame with the new deepdream framed
 
 (note that the deepdream frame also is morphed based on the total oprical flow over time since the deepdream process was started)
