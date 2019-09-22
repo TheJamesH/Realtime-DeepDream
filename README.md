@@ -1,6 +1,6 @@
 # Realtime-DeepDream
 
-Realtime Deepdream combines the Google Deepdream neuralnet and TensorFlow with OpenCV image processing.
+Realtime Deepdream combines Google Deepdream and TensorFlow with OpenCV image processing.
 
 
 - Google DeepDream:https://github.com/google/deepdream
